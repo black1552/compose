@@ -25,7 +25,7 @@ afterEvaluate {
 
 android {
     namespace = "com.black1552.compose"
-    compileSdk = 34
+    compileSdk = 33
 
     defaultConfig {
         minSdk = 29
@@ -96,4 +96,5 @@ dependencies {
     api(libs.rxjava)
     api(libs.rxandroid)
     api(libs.utilcodex)
+    api(libs.coil.compose)
 }
