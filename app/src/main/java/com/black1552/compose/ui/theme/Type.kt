@@ -1,4 +1,4 @@
-package com.ybn.purchasecompose.ui.theme
+package com.black1552.compose.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

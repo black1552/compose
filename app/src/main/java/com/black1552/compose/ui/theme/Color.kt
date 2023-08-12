@@ -1,7 +1,5 @@
-package com.ybn.purchasecompose.ui.theme
+package com.black1552.compose.ui.theme
 
-import android.hardware.lights.Light
-import androidx.compose.material3.NavigationBarItemDefaults
 import androidx.compose.ui.graphics.Color
 
 val Purple80 = Color(0xFFD0BCFF)
